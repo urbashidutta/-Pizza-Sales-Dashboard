@@ -1,0 +1,21 @@
+# 🍕 Pizza Sales Dashboard
+
+An Excel dashboard created to analyze the performance of a fictional pizza restaurant.
+
+## 📌 Dashboard Insights
+- Total revenue, total orders, and average order value
+- Best and worst selling pizzas
+- Sales breakdown by category, size, and date
+- Interactive slicers and visuals
+
+## 📊 Tools Used
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Formulas & calculated fields
+- Slicers and Timeline filters
+
+## 📁 File
+- `PIZZA_sales DASHBOARD.xlsx` – includes all visualizations and calculations
+
+## 💼 Use Case
+Ideal for showcasing Excel-based business intelligence and dashboarding skills.
